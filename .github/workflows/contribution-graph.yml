@@ -1,0 +1,34 @@
+name: Generate Animated Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # Generate animated contribution graph
+      - name: Generate Contribution Graph Animation
+        uses: yoshi389111/github-activity-graph@v1.6.1
+        with:
+          user_name: rashid-ai24
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          color: "00ffcc"
+          bg_color: "000000"
+          area: true
+          line: "ff0000"
+          custom_title: "🔥 Animated Contribution Graph 🔥"
+
+      # Save output into "output" branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: ./ # It will push the generated graph here
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
