@@ -7,5 +7,5 @@
 ***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rashid-ai24/rashid-ai24/output/github-contribution-graph.svg" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/rashid-ai24/rashid-ai24/output/github-contribution-graph.gif" alt="Animated Contribution Graph"/>
 </div>
