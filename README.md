@@ -4,7 +4,7 @@
 
 # Hi there, I'm Rashid! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/placeholder/banner.png) <!-- Add your custom banner URL or remove this line -->
+![Profile Banner](https://raw.githubusercontent.com/rashid-ai24/rashid-ai24/main/assets/banner.png)
 
 ---
 
