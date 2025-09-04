@@ -74,12 +74,11 @@
 
 ---
 
-## 😂 Daily Joke  
+## 😂 Daily Joke
 
 <p align="center">  
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"/>  
-</p>  
-
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&category=pun,dad,knock-knock,general" alt="Daily Joke"/>  
+</p>
 ---
 
 ## 🎉 Fun Facts  
