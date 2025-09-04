@@ -74,10 +74,10 @@
 
 ---
 
-## ✨ Daily Quote    
+## 😂 Daily Joke  
 
 <p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>  
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"/>  
 </p>  
 
 ---
