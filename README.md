@@ -79,6 +79,7 @@
 <p align="center">  
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&category=pun,dad,knock-knock,general" alt="Daily Joke"/>  
 </p>
+
 ---
 
 ## 🎉 Fun Facts  
