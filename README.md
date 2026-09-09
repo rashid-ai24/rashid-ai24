@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&reversal=true&color=auto" width="100%"/>
 </p>
 
-# Hi there, I'm Rashid! 👋
+# Hi there, I'm Rashid! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![Profile Banner](https://raw.githubusercontent.com/rashid-ai24/rashid-ai24/main/assets/banner.png)
 
