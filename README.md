@@ -6,13 +6,7 @@
   />
 </p>
 
-# Hi there, I'm Rashid! <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-    width="30px"
-    alt="Hi"
-  />
-</p>
+# Hi there, I'm Rashid! <p align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"/> </p>
 
 
 <p align="center">
