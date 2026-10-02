@@ -177,7 +177,7 @@
 </p>
 
 ---
-## 📱 NetStreamer APK
+## 📱 NetStreamer .apk
 
 [![Download APK](https://img.shields.io/badge/Download-Android%20APK-8F1D2C?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rashid-ai24/netStreamer/releases/download/v2.1.0/netStreamer_v2.1.0.apk)
 
